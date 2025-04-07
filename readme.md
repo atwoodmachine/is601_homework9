@@ -1,1 +1,1 @@
-The original broken code has been fixed.
+The original broken code has been fixed. Note: some package versions were changed to abide by security warnings.
